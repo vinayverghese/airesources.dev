@@ -114,7 +114,7 @@ export const categories: Category[] = [
         name: "Wave",
         description:
           "Open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization",
-        link: "https://www.waveterm.dev/",
+        link: "https://www.waveterm.dev",
         iconUrl: "https://github.com/wavetermdev/waveterm/blob/main/assets/waveterm-logo-with-bg.png?raw=true",
         type: "terminal",
         previewImage: "https://raw.githubusercontent.com/wavetermdev/waveterm/refs/heads/main/assets/waveterm-logo-with-bg.ico",

@@ -330,7 +330,7 @@ export const categories: Category[] = [
         name: "Midjourney",
         description: "AI-powered image generation from text descriptions",
         link: "https://www.midjourney.com/",
-        iconUrl: "https://www.midjourney.com/favicon.ico",
+        iconUrl: "https://www.midjourney.com/apple-touch-icon.png",
         type: "image",
         models: ["Midjourney v6", "Midjourney v5"],
       },
